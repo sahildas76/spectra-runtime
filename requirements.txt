@@ -1,6 +1,5 @@
-google-genai
 streamlit
-pandas
-numpy
-pydantic
+google-genai
 python-dotenv
+pandas
+plotly
